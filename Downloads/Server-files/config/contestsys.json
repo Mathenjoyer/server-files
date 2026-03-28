@@ -1,0 +1,7 @@
+{
+  "siegeDurationMinutes": 15,
+  "isolationDurationHours": 12,
+  "claimRadiusChunks": 1,
+  "foodTaxPerFiveFlags": 1,
+  "foodCheckIntervalTicks": 1200
+}

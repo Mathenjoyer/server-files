@@ -1,0 +1,42 @@
+[
+  {
+    "x": 186,
+    "y": 64,
+    "z": 24,
+    "blockId": "create:mechanical_drill",
+    "cooldownSeconds": 1,
+    "nextRespawnTimeMs": 0
+  },
+  {
+    "x": -756,
+    "y": 69,
+    "z": 872,
+    "blockId": "minecraft:iron_ore",
+    "cooldownSeconds": 5,
+    "nextRespawnTimeMs": 0
+  },
+  {
+    "x": -756,
+    "y": 69,
+    "z": 873,
+    "blockId": "minecraft:iron_ore",
+    "cooldownSeconds": 5,
+    "nextRespawnTimeMs": 0
+  },
+  {
+    "x": -755,
+    "y": 69,
+    "z": 872,
+    "blockId": "minecraft:iron_ore",
+    "cooldownSeconds": 5,
+    "nextRespawnTimeMs": 0
+  },
+  {
+    "x": -755,
+    "y": 69,
+    "z": 873,
+    "blockId": "minecraft:iron_ore",
+    "cooldownSeconds": 5,
+    "nextRespawnTimeMs": 0
+  }
+]
